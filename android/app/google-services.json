@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724554265342",
+    "project_id": "scset-bu",
+    "storage_bucket": "scset-bu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724554265342:android:795c41559d2d9241c5ebaf",
+        "android_client_info": {
+          "package_name": "com.scset.cse_flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724554265342-ude9g0s6nf4rkie9obtsl6i62hiaaj8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBceNzGgAp1UhkF4vR-8kwtCQBOVQyemq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724554265342-ude9g0s6nf4rkie9obtsl6i62hiaaj8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
